@@ -20,6 +20,3 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-
-# this will break the linting:
-one=1
